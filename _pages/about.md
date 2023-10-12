@@ -11,6 +11,8 @@ redirect_from:
 With a background in marketing, management, and analytics, along with a degree in Business and specialized training in data science, I am well-prepared for a Data Analyst role. My proven analytical skills, proficiency in data science tools, and commitment to continuous learning position me to contribute effectively to data-driven decision-making in your team.
 
 ------
+
+
 Skills
 ------
 * Python 
@@ -22,8 +24,9 @@ Skills
 * Data Wrangling and Cleaning 
 * Wordpress
 
-  
 ------
+
+
 Work Experience
 ------
 * Project Management and Data Analyst
@@ -45,9 +48,10 @@ Work Experience
   **VIP Kid**   2020-2021 (Remote)
   I engaged in teaching English as a second language to children 12 years and younger, employing a delightful and approachable yet professional manner. Notably, I achieved a remarkable milestone by transforming a three-year-old boy, who initially had no English proficiency, into a conversational speaker within a mere six months.
 
-
-
 ------
+
+
+
 Education
 ------
 **Bachelor of Science in Business Administartion, Major in Business Management**
@@ -64,6 +68,8 @@ Google  2022
 
 
 ------
+
+
 Languages
 ------
 * English
